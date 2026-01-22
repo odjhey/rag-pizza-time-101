@@ -1,2 +1,3 @@
 !.gitignore
 vector_index_*/
+/vector_index_coco_10000_nodes_ollama_embeddinggemma
