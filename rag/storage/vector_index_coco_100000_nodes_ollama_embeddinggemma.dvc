@@ -1,0 +1,6 @@
+outs:
+- md5: b2dcce141a7f2f6f198a1f8a42946aa8.dir
+  size: 1191127423
+  nfiles: 5
+  hash: md5
+  path: vector_index_coco_100000_nodes_ollama_embeddinggemma
